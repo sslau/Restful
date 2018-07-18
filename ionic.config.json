@@ -1,0 +1,8 @@
+{
+  "name": "ionic-3-rest-api",
+  "app_id": "27b08a4d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
